@@ -1,4 +1,4 @@
 # cybersecurity_course
 
 ## Tuntikirjaus:
-- 30.10. 1,5h
+- 30.10. 1,5h luento
