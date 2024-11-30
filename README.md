@@ -10,7 +10,14 @@
 | 9.11. | 1,5 | Module 3 in Introduction to Cybersecurity |
 | 10.11. | 3 | Module 4, 5 & final exam in Introduction to Cybersecurity |
 | 13.11. | 3 | Studying at Portswigger and completing one lab in each: Access control, Authentication and SQL injections |
-| 18.11. | 6 | Studying course materials and completing Booking system project phase 1. Link to first report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_project_phase1/Registration_page_first_test.md. Added security checks for unique email verification, refactoring code (register.js added), enchanced routing clarity. Link to final report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_project_phase1/Registration_page_final_test.md
+| 18.11. | 6 | Studying course materials and completing Booking system project phase 1.
+- Link to first report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_project_phase1/Registration_page_first_test.md.
+- Added security checks for unique email verification, refactoring code (register.js added), enchanced routing clarity.
+- Link to final report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_project_phase1/Registration_page_final_test.md |
 | 28.11. | 5 | Lecture tapes + started working on Booking system project phase 2. |
-
+| 29.11. | 2,5 | Finished Booking system project phase 2.
+- First report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_phase_two_first_test.md.
+- Fixed validation error for password. Added Content Security Policy (CSP), X-Frame-Options, and X-Content-Type-Options headers to
+  mitigate risks of cross-site scripting (XSS), clickjacking, and MIME type sniffing attacks.
+- Final report: https://github.com/tiikes/cybersecurity_course/blob/main/booking_system_phase_two_final_test.md |
 
