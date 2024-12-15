@@ -16,4 +16,4 @@
 | 11.12. | 7 | Studying at Portswigger and completing one lab from each: Access control, SQL injection and HTTP Host header attacks + 2 labs from Authentication.
 | 12.12. | 8 | Started Phase 3 and studied lecture materials.
 | 13.12. | 5 | Continued Phase 3 and studied lecture materials.
-| 14.12. | 8 | Finish phase 3 and the final phase.
+| 14.12. | 8 | Finish phase 3 and the final phase. Link to md. report: https://github.com/tiikes/cybersecurity_course/blob/main/phase3.md
